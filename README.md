@@ -20,3 +20,5 @@ username?
 
  Link Sharing and PDF Download (50 points):
 o Can users share their resume link, and does the download function work properly?
+
+update
